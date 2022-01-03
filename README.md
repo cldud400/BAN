@@ -1,2 +1,2 @@
 # BAN
-Check branches please
+This is test repository
